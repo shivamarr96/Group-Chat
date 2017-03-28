@@ -9,5 +9,8 @@ STEPS TO EXECUTE:
 <br/>
 3. ‘java Login’ for each new client
 <br/>
+![alt_text](https://github.com/shivamarr96/Group-Chat/blob/master/ss_1.png)
+<br/>
+![alt_text](https://github.com/shivamarr96/Group-Chat/blob/master/ss_2.png)
 
 
